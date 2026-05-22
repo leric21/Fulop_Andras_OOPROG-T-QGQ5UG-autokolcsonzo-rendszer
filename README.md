@@ -1,3 +1,11 @@
+# Név:					Fülöp András
+# Neptun kód:		QGQ5UG
+# Szak: 				Mérnökinformatikus BSc
+# Tárgy: 				OOPROG-T Távoktatás
+# Dátum:				2026.05.22.
+
+
+
 # Autókölcsönző Rendszer
 
 ## Projekt leírás
